@@ -6,3 +6,5 @@
 <li>Tempo que o aparelho fica ligado durante o dia em minuto.
 <li>Quantidade de dia que o aparelho passa ligado durante o mês.
 <li >Tratamento de possíveis erros do imput do usuário.
+
+![Screenshot_20221217-175154~2](https://user-images.githubusercontent.com/96388665/208255341-463d293d-e622-4a10-a8b5-3b1298fa5c29.png)
