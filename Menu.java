@@ -1,5 +1,5 @@
 
-can you deimport java.util.Scanner;
+import java.util.Scanner;
 import java.util.Iterator;
 import java.util.ArrayList;
 import java.util.ArrayList;
