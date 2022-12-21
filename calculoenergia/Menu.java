@@ -1,4 +1,4 @@
-
+package calculoenergia;
 import java.util.Scanner;
 import java.util.Iterator;
 import java.util.ArrayList;
@@ -33,7 +33,7 @@ public class Menu{
 	        
             DecimalFormat df = new DecimalFormat("0.##");
             float vf = Float.parseFloat(df.format(valor));
-            
+        de se
 	        item.add(new Meu_item(v.getNome(),vf));
 	        totvalor += valor;
 	        

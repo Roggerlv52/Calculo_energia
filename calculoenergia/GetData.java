@@ -1,4 +1,4 @@
- 
+ package calculoenergia; 
 import java.util.Scanner;
 
  public class GetData{
